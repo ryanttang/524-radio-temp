@@ -1,2 +1,5 @@
-nuxt-gsap-tailwind-template/.git
-radio-fresh/.git
+nuxt-gsap-tailwind-template/
+radio-fresh/
+
+# YoYo AI version control directory
+.yoyo/

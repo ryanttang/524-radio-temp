@@ -1,0 +1,11 @@
+export default {
+  modules: [],
+  ssr: true,
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
+  // Debug/dev tools can be added here
+} 
